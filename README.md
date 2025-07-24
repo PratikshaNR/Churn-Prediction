@@ -3,7 +3,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)
 ![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-yellow.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-webapp-orange.svg)
 
 Welcome to the Customer Churn Prediction repository!  
 This project uses machine learning to predict customer churn based on user behavior and demographics. It includes data preprocessing, model training, evaluation metrics, and a deployed web app for real-time predictions. Great for exploring real-world applications of ML in business analytics.
