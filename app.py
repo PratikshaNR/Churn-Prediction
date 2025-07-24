@@ -5,11 +5,11 @@ import pandas as pd
 app = Flask(__name__)
 
 # Load the saved scaler
-with open(r"C:\Users\Pratiksha\OneDrive\Desktop\Churn_prediction - Copy\Churn_prediction\models\churn-prediction-standard-scaler-1.pkl", 'rb') as file:
+with open(r"C:\Users\Pratiksha\Documents\Churn Prediction\models\churn-prediction-standard-scaler-1.pkl", 'rb') as file:
     scaler = pickle.load(file)
 
 # Load the trained model
-with open(r"C:\Users\Pratiksha\OneDrive\Desktop\Churn_prediction - Copy\Churn_prediction\models\churn-prediction.pkl", 'rb') as file:
+with open(r"C:\Users\Pratiksha\Documents\Churn Prediction\models\churn-prediction.pkl", 'rb') as file:
     rfc = pickle.load(file)
 
 # Define class labels
