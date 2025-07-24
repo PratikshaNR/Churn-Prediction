@@ -26,34 +26,6 @@ This project uses machine learning to predict customer churn based on user behav
 - **Libraries & Frameworks:** Pandas, NumPy, scikit-learn, XGBoost, imbalanced-learn (SMOTE), Matplotlib, Seaborn, Flask/Streamlit
 - **Deployment:** Streamlit/Flask web app
 
----
-
-## 📦 Installation
-
-1. **Clone the repository**
-    ```bash
-    git clone https://github.com/PratikshaNR/Churn-Prediction.git
-    cd Churn-Prediction
-    ```
-
-2. **Install dependencies**
-    ```bash
-    pip install -r requirements.txt
-    # OR for Jupyter
-    pip install notebook pandas numpy scikit-learn xgboost imbalanced-learn matplotlib seaborn streamlit flask
-    ```
-
-3. **Run the Jupyter Notebooks**
-    ```bash
-    jupyter notebook
-    ```
-
-4. **Launch the Web App**
-    ```bash
-    streamlit run app.py
-    # OR for Flask
-    python app.py
-    ```
 
 ---
 
