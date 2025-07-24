@@ -1,6 +1,6 @@
 # **Customer Churn Prediction with Machine Learning**
 
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)
 ![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-yellow.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-webapp-orange.svg)
