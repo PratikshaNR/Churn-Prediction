@@ -8,8 +8,11 @@ This project demonstrates the use of machine learning techniques to predict cust
 ** Project Workflow **
 📊 1. Data Preprocessing
 Handling missing values
+
 Encoding categorical variables
+
 Feature scaling (StandardScaler)
+
 Addressing class imbalance (e.g., SMOTE)
 
 📈 2. Exploratory Data Analysis (EDA)
